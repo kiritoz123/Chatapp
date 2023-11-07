@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "277410280074",
+    "firebase_url": "https://newapp-5438b-default-rtdb.firebaseio.com",
+    "project_id": "newapp-5438b",
+    "storage_bucket": "newapp-5438b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277410280074:android:a0ecee95f21deab65cf373",
+        "android_client_info": {
+          "package_name": "com.example.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0CdBXkh4eM3MvQK0PDg-lGok3ISNnYlA"
+        },
+        {
+          "current_key": "AIzaSyCdt-RdAMDABnrG0kdiLV9yg5iLmpcIqsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277410280074:android:a76e04ba4d7d6e795cf373",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0CdBXkh4eM3MvQK0PDg-lGok3ISNnYlA"
+        },
+        {
+          "current_key": "AIzaSyCdt-RdAMDABnrG0kdiLV9yg5iLmpcIqsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
